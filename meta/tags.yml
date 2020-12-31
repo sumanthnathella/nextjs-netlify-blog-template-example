@@ -11,3 +11,7 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
+  - slug: design
+    name: design
+  - slug: coding
+    name: coding
